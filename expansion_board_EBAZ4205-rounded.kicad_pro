@@ -44,8 +44,8 @@
         "silk_text_thickness": 0.15239999999999998,
         "silk_text_upright": false,
         "zones": {
-          "45_degree_only": false,
-          "min_clearance": 0.254
+          "45_degree_only": true,
+          "min_clearance": 0.508
         }
       },
       "diff_pair_dimensions": [
@@ -359,7 +359,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "expansion_board_EBAZ4205.kicad_pro",
+    "filename": "expansion_board_EBAZ4205-rounded.kicad_pro",
     "version": 1
   },
   "net_settings": {
